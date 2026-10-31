@@ -1,0 +1,2 @@
+scikit-learn
+anthropic   # only needed if you use ANTHROPIC_API_KEY
